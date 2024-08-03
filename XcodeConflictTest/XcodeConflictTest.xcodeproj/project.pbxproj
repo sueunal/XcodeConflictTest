@@ -14,6 +14,8 @@
 		2C29847C2C5E0ED200CBDF95 /* XcodeConflictTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C29847B2C5E0ED200CBDF95 /* XcodeConflictTestTests.swift */; };
 		2C2984862C5E0ED200CBDF95 /* XcodeConflictTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C2984852C5E0ED200CBDF95 /* XcodeConflictTestUITests.swift */; };
 		2C2984882C5E0ED200CBDF95 /* XcodeConflictTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C2984872C5E0ED200CBDF95 /* XcodeConflictTestUITestsLaunchTests.swift */; };
+		2C2984952C5E0F2700CBDF95 /* ConflictTestFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C2984942C5E0F2700CBDF95 /* ConflictTestFile.swift */; };
+		2C2984972C5E0FE100CBDF95 /* CreatTest0.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C2984962C5E0FE100CBDF95 /* CreatTest0.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		2C2984812C5E0ED200CBDF95 /* XcodeConflictTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XcodeConflictTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C2984852C5E0ED200CBDF95 /* XcodeConflictTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XcodeConflictTestUITests.swift; sourceTree = "<group>"; };
 		2C2984872C5E0ED200CBDF95 /* XcodeConflictTestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XcodeConflictTestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2C2984942C5E0F2700CBDF95 /* ConflictTestFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConflictTestFile.swift; sourceTree = "<group>"; };
+		2C2984962C5E0FE100CBDF95 /* CreatTest0.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatTest0.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +100,8 @@
 			children = (
 				2C29846A2C5E0ED100CBDF95 /* XcodeConflictTestApp.swift */,
 				2C29846C2C5E0ED100CBDF95 /* ContentView.swift */,
+				2C2984962C5E0FE100CBDF95 /* CreatTest0.swift */,
+				2C2984942C5E0F2700CBDF95 /* ConflictTestFile.swift */,
 				2C29846E2C5E0ED200CBDF95 /* Assets.xcassets */,
 				2C2984702C5E0ED200CBDF95 /* Preview Content */,
 			);
@@ -259,6 +265,8 @@
 			files = (
 				2C29846D2C5E0ED100CBDF95 /* ContentView.swift in Sources */,
 				2C29846B2C5E0ED100CBDF95 /* XcodeConflictTestApp.swift in Sources */,
+				2C2984972C5E0FE100CBDF95 /* CreatTest0.swift in Sources */,
+				2C2984952C5E0F2700CBDF95 /* ConflictTestFile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
