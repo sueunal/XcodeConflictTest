@@ -44,6 +44,7 @@ Text("테스트 브랜치에서 수정함")
 
 - test1에서 파일을 수정하고 PR를 요청하면 충돌 발생
 <img width="609" alt="스크린샷 2024-08-03 오후 9 37 13" src="https://github.com/user-attachments/assets/dcfc8e3d-26bd-4d1b-ae01-267b7b0fb366">
+
 - test1에서는 수정이 없는데 main에서는 수정됨
 
 #### 이유
