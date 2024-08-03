@@ -99,9 +99,9 @@
 			isa = PBXGroup;
 			children = (
 				2C29846A2C5E0ED100CBDF95 /* XcodeConflictTestApp.swift */,
+				2C2984942C5E0F2700CBDF95 /* ConflictTestFile.swift */,
 				2C29846C2C5E0ED100CBDF95 /* ContentView.swift */,
 				2C2984962C5E0FE100CBDF95 /* CreatTest0.swift */,
-				2C2984942C5E0F2700CBDF95 /* ConflictTestFile.swift */,
 				2C29846E2C5E0ED200CBDF95 /* Assets.xcassets */,
 				2C2984702C5E0ED200CBDF95 /* Preview Content */,
 			);
