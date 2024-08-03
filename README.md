@@ -1,5 +1,3 @@
-<img width="609" alt="스크린샷 2024-08-03 오후 9 37 13" src="https://github.com/user-attachments/assets/952d5a03-71b1-4342-a76e-09b65ce95ca8"># Xcode Conflict Test
-
 # git 사용시 Xcode 충돌나는 상황 정리
 
 ## 1. 동시 수정
