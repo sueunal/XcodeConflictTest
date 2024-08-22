@@ -9,7 +9,9 @@ import SwiftUI
 
 struct ConflictTestFile: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        VStack{
+            Text( "테스트 브랜치에서 파일 수정함" )
+        }
     }
 }
 
